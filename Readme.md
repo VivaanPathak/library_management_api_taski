@@ -26,3 +26,8 @@ Simple Node.js + Express + MongoDB API for managing authors and books.
 ```bash
 git clone <repo-url>
 cd library-api
+
+## Run project
+npm install
+npm start
+
