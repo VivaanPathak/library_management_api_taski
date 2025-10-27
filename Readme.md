@@ -24,8 +24,8 @@ Simple Node.js + Express + MongoDB API for managing authors and books.
 
 1. Clone repository
 ```bash
-git clone <repo-url>
-cd library-api
+git clone https://github.com/VivaanPathak/library_management_api_taski.git
+cd library_management_api_taski
 
 ## Run project
 npm install
